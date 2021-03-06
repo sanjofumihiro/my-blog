@@ -1,0 +1,3 @@
+[submodule "blog-secret"]
+	path = blog-secret
+	url = https://github.com/sanjofumihiro/blog-secret
